@@ -1,0 +1,31 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Welcome</title>
+</head>
+
+
+
+<body  background="images/sea.jpeg">
+<center>
+<br>
+<br>
+<font size=6 color=red><b><i>
+WELCOME TO<br>
+WEATHER REPORT</b></i>
+</font>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<form action="signup.html">
+<input type="submit"  value="ENTER">
+</form>
+
+</center>
+</body>
+</html>
